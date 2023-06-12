@@ -5,7 +5,7 @@ permalink: /teaching/
 
 At **California State University, Fullerton**, I served as a GSA and Teaching Assitant for four sections of the POSC 100 - American Government intro course. 
 
-##California State University, Fullerton
+##California State University, Fullerton 
 -POSC 100 - American Government with Dr. Robert Castro (Fall 2021)
   - Lectured Topics: [CA 2021 Recall Election](https://www.youtube.com/watch?v=umWwQk7qF3c), [CA Recall Election Debrief](https://www.youtube.com/watch?v=SN-1HM5ZtDY), Financial Incentive within Interest Groups & Parties
 
