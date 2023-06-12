@@ -19,6 +19,7 @@ Education
 Work experience
 ======
 * Graduate Student Assistant
+  * California State University, Fullerton - PAJ Division
   * Create engaging course content for undergraduate students in the PAJ Division
   * Advise current and prospective undergraduates enrolled in any of the nine degrees offered within the PAJ Division
   * Collaborate with full-time faculty and professors to address student academic needs
