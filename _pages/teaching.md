@@ -3,7 +3,7 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-At **California State University, Fullerton**, I served as a GSA and Teaching Assitant for four sections of the POSC 100 - American Government intro course. 
+At **California State University, Fullerton**, I served as a GSA and Teaching Assistant for four sections of the POSC 100 - American Government intro course. 
 
 ## California State University, Fullerton 
 
