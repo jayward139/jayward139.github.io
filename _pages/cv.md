@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Jalen Ward CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,15 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* A.A. in Psychology, Teacher Education, Irvine Valley College, 2018
+* B.A. in Psychology with a minor in Political Science, California State University, Fullerton, 2020
+* M.A. in Jekyll, California State University, Fullerton, 2023
+* Ph.D in Political Science, University of California, Davis, 2028 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Senior Corporate Development Analyst at Excelera Health
   * Github University
-  * Duties included: Tagging issues
+  * Duties included: 
+    *Management of corporate insurance portfolios
+    *
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
