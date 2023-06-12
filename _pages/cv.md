@@ -24,5 +24,5 @@ Work experience
 
 * Finance Project Analyst/Interim Project Manager, Connected Care Health Services, 2020 - 2021
 
-<iframe src="/files/JWARD_CV062023.pdf" width="150%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/JWARD_CV062023.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 For your convenience, you can download a PDF copy of my CV [here](/files/JWARD_CV062023.pdf).
