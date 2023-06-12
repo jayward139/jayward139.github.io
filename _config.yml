@@ -57,7 +57,7 @@ yandex_site_verification:
 
 # Social Sharing
 twitter:
-  username: @jayluvspolitics
+  username: 
 facebook:
   username:
   app_id:
@@ -80,12 +80,12 @@ analytics:
 author:
   name: 'Jalen Ward'
   avatar: 'profile.png'
-  bio: 'Your biography/tagline for the left-hand sidebar'
+  bio: 'Political Science graduate student at UC Davis studying Agnotology, Political Epistemology, and Political Behavior'
   location:
   employer:
   pubmed:
   googlescholar:
-  email: 'email@email.com'
+  email: 'jayward139@email.com'
   researchgate:
   uri:
   bitbucket:
@@ -97,21 +97,21 @@ author:
   github: 'jayward139'
   google_plus:
   keybase:
-  instagram:
+  instagram: 'jaylenoward'
   impactstory:
   lastfm:
-  linkedin: 'https://www.linkein.com/in/'
+  linkedin: 'https://www.linkedin.com/in/jalen-ward-5537bb155/'
   orcid: 'http://orcid.org/yourorcidurl'
   pinterest:
   soundcloud:
   stackoverflow:
   steam:
   tumblr:
-  twitter: 'replacethistwitterhandle'
+  twitter: '@jayluvspolitics'
   vine:
   weibo:
   xing:
-  youtube:
+  youtube: 
   wikipedia:
 
 # Reading Files
