@@ -38,12 +38,5 @@ Work experience
   * Served on the Social Analysis & Minority Health Team and developed a Medicare-tailored SDOH Program and CRCCP
   * Worked alongside the CFO and Health Plan Pharmacist on MAPD Financial Operations, including PBM Auditing, Plan-to-Plan Part D Payment Reconciliation, and Financial Information Reporting (FIR & Nx) transactions
 
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-<embed src="http://example.com/the.pdf" width="500" height="375" 
- type="application/pdf">
+<iframe src="/files/JWARD_CV062023.pdf" width="150%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+For your convenience, you can download a PDF copy of my CV [here](/files/JWARD_CV062023.pdf).
