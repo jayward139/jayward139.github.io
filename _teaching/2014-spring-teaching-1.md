@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "California State University, Fullerton, Division of Politics, Administration, and Justice"
-date: 2021-08
+date: 2021-08-01
 location: "Fullerton, CA, USA"
 ---
 title: "POSC 100 - American Government"
