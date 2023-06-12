@@ -7,14 +7,6 @@ venue: "California State University, Fullerton, Division of Politics, Administra
 date: 2021-08-01
 location: "Fullerton, CA, USA"
 ---
-title: "POSC 100 - American Government"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "California State University, Fullerton, Division of Politics, Administration, and Justice"
-date: 2021-08
-location: "Fullerton, CA, USA"
----
 This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
