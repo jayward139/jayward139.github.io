@@ -10,7 +10,7 @@ locale: 'en-US'
 title: 'Jalen Ward'
 title_separator: '-'
 name: &name 'Jalen Ward'
-description: &description 'Political Science graduate student at UC Davis studying Agnotology, Political Epistemology, and Political Behavior'
+description: &description 'personal description'
 url: https://jayward139.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: '' # the subpath of your site, e.g. "/blog"
 repository: 'jayward139.github.io'
@@ -79,14 +79,14 @@ analytics:
 # Site Author
 author:
   name: 'Jalen Ward'
-  avatar: 'images/PiSigmaAlpha-108.jpg'
+  avatar: 'PiSigmaAlpha-108.jpg'
   bio: 'Political Science graduate student at UC Davis studying Agnotology, Political Epistemology, and Political Behavior'
-  location:
-  employer:
+  location: "Davis, CA"
+  employer: "University of California, Davis"
   pubmed:
   googlescholar:
   email: 'jayward139@email.com'
-  researchgate:
+  researchgate: "https://www.researchgate.net/profile/Jalen-Ward"
   uri:
   bitbucket:
   codepen:
