@@ -11,32 +11,18 @@ redirect_from:
 
 Education
 ======
-* A.A. in Psychology, Teacher Education, Irvine Valley College, 2018
-* B.A. in Psychology with a minor in Political Science, California State University, Fullerton, 2020
-* M.A. in Political Science, California State University, Fullerton, 2023
 * Ph.D in Political Science, University of California, Davis, 2028 (expected)
+* M.A. in Political Science, California State University, Fullerton, 2023
+* B.A. in Psychology with a minor in Political Science, California State University, Fullerton, 2020
+* A.A. in Psychology, Teacher Education, Irvine Valley College, 2018
 
 Work experience
 ======
-* Graduate Student Assistant
-  * California State University, Fullerton - PAJ Division
-  * Create engaging course content for undergraduate students in the PAJ Division
-  * Advise current and prospective undergraduates enrolled in any of the nine degrees offered within the PAJ Division
-  * Collaborate with full-time faculty and professors to address student academic needs
-  * Grade exams, papers, and ad-hoc assignments
+* Graduate Student Assistant, California State University, Fullerton - PAJ Division, 2021 - 2023
   
-* Senior Corporate Development Analyst
-  * Excelera Health (MacArthur Court Acquisition Company)
-  * Manage the corporate insurance portfolios and auditing schedules of five entities
-  * Produce and curate Investor Deck Content for prospective private equity investors & SPACs
-  * Auditor of multi-faceted ad hoc compliance guidelines including MAPD Claims Analysis, Part D Financials, Risk Adjustment Coding, CMS 1/3rd audits, laboratory financial compliance and CAP audits
-  * Duties included: Financial Auditing, Management of Risk Portfolio, Public Company Readiness, Workflow Creation for MA HMO, GPDC, and ACO REACH models
+* Senior Corporate Development Analyst, Excelera Health (MacArthur Court Acquisition Company), 2020* - 2023
 
-* Finance Project Analyst/Interim Project Manager
-  * Connected Care Health Services
-  * Led as Interim Manager for the MAPD Enrollments and Eligibility Dept and Prescription Drug Reconciliation Program
-  * Served on the Social Analysis & Minority Health Team and developed a Medicare-tailored SDOH Program and CRCCP
-  * Worked alongside the CFO and Health Plan Pharmacist on MAPD Financial Operations, including PBM Auditing, Plan-to-Plan Part D Payment Reconciliation, and Financial Information Reporting (FIR & Nx) transactions
+* Finance Project Analyst/Interim Project Manager, Connected Care Health Services, 2020 - 2021
 
 <iframe src="/files/JWARD_CV062023.pdf" width="150%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 For your convenience, you can download a PDF copy of my CV [here](/files/JWARD_CV062023.pdf).
