@@ -13,7 +13,7 @@ Education
 ======
 * A.A. in Psychology, Teacher Education, Irvine Valley College, 2018
 * B.A. in Psychology with a minor in Political Science, California State University, Fullerton, 2020
-* M.A. in Jekyll, California State University, Fullerton, 2023
+* M.A. in Political Science, California State University, Fullerton, 2023
 * Ph.D in Political Science, University of California, Davis, 2028 (expected)
 
 Work experience
