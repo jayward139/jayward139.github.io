@@ -1,9 +1,7 @@
 ---
-title: "Works"
+title: "Term Papers and Working Papers"
 permalink: /works/
 ---
-
-##Term Papers and Working Papers
 
 A Rousseauian Look at History & Aesthetics
 ====
