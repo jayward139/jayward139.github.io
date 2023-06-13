@@ -26,7 +26,8 @@ I worked with Associate Porfessor Dr. Scott Spitzer to put on this event at CSU 
 
 **Pi Sigma Alpha’s Annual Banquet and Induction Ceremony**
 ===
-![](images/PiSigmaAlpha-172.jpg) ![](images/PiSigmaAlpha-23.jpg)
+
+[](images/PiSigmaAlpha-172.jpg) [](images/PiSigmaAlpha-23.jpg)
 
 I led the planning committee for the annual banquet for Pi Sigma Alpha - Epsilon-Eta Chapter.  
 
