@@ -28,7 +28,7 @@ I worked with **Associate Porfessor [Dr. Scott Spitzer](https://hss.fullerton.ed
 **Pi Sigma Alpha’s Annual Banquet and Induction Ceremony**
 ===
 
-<img src="/images/PiSigmaAlpha-172.jpg" style="display: block; margin: auto;" width="200" height="90"/>
+<img src="/images/PiSigmaAlpha-172.jpg" style="display: block; margin: auto;" width="600" height="400"/>
 
 I led the planning committee for the annual banquet for Pi Sigma Alpha - Epsilon-Eta Chapter.  
 
