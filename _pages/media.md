@@ -22,8 +22,10 @@ I worked with Associate Porfessor Dr. Scott Spitzer to put on this event at CSU 
 
 “All Politics Is Local” event was co-sponsored and hosted by Pi Sigma Alpha – Epsilon-Eta. The Speaker series event invited Professor Raphael Sonnenshein, Director of the Pat Brown Center of California Politics at CSU Los Angeles, and Professor Jodi Balma, Department of Political Science at Fullerton College to talk about Orange County and Los Angeles County politics heading into the 2022 Midterm Elections. Pi Sigma Alpha collaborated with Professor Dr. Scott Spitzer plan the event to educate students on the lesser known state and local-level races and ballot measures while boosting youth voter turnout. The event was hosted by Pi Sigma Alpha Secretary-Treasurer Jalen Ward and panels were moderated by Professor of Political Science Stephen Stambough. The event was held 7:00 - 8:30 P.M. in the Titan (CSUF) Student Union Portola Pavilion. 
 
-**Pi Sigma Alpha’s Annual Banquet and Induction Ceremony**
+## Pi Sigma Alpha 
 
+**Pi Sigma Alpha’s Annual Banquet and Induction Ceremony**
+===
 ![](images/PiSigmaAlpha-172.jpg) ![](images/PiSigmaAlpha-23.jpg)
 
 I led the planning committee for the annual banquet for Pi Sigma Alpha - Epsilon-Eta Chapter.  
@@ -34,7 +36,6 @@ This banquet was meant to honor the accomplishments of the Pi Sigma Alpha Epsilo
 
 
 
-## Pi Sigma Alpha 
 
 
 
