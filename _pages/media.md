@@ -30,7 +30,7 @@ I worked with **Associate Porfessor [Dr. Scott Spitzer](https://hss.fullerton.ed
 
 <img src="/images/PiSigmaAlpha-172.jpg" style="display: block; margin: auto;" width="600" height="400"/>
 
-I led the planning committee for the annual banquet for Pi Sigma Alpha - Epsilon-Eta Chapter.  
+As Secretary-Treasurer, I led the planning committee for the annual banquet for Pi Sigma Alpha - Epsilon-Eta Chapter.  
 
 Pi Sigma Alpha’s Annual Banquet and Induction Ceremony took place April 29th at the Fullerton Arboretum’s Bacon Pavilion. The banquet recognized the events and accomplishments of the Pi Sigma Alpha and induct new members for the 23-24 academic year. Epsilon Eta’s Alumnae of the Year attended the event and gave keynote speeches to inductions members. The two alumnae were Eliza Ramirez-Gambon who is the Deputy Chief of Staff for Congressman Josh Gottheimer and Claudia Keller who is CEO at Second Harvest Food Bank of Orange. We also celebrated the significant commitments and contributions made by retiring faculty and **Chapter Advisor [Dr. Valerie O'Regan](https://hss.fullerton.edu/paj/contact_us/faculty/v_oregan.aspx)** with an intimate ceremony made possible by Pi Sigma Alpha alumni going back 12 years in the chapter’s history. 
 
