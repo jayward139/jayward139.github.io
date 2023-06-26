@@ -6,6 +6,21 @@ author_profile: true
 redirect_from:
 ---
 
+## Prior Teaching Content 
+
+**[2022 Teaching Assistant Introduction](https://youtu.be/ZvoYeyxFHcw)**
+
+var obj = {"video": {
+"value": "<iframe title='YouTube video player' type=\"text/html\" width='640'  
+height='390' src='https://youtu.be/ZvoYeyxFHcw' frameborder='0' 
+ allowFullScreen></iframe>"
+}}
+
+$("#test").html(obj.video.value);
+
+
+<div id="test"></div>
+
 ## In The News
 
 **[Titan Alumni Selected for American Political Science Association’s Diversity Fellowship Program](https://news.fullerton.edu/spotlight/titan-alumni-selected-for-american-political-science-associations-diversity-fellowship-program/)**
