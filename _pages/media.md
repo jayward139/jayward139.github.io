@@ -9,10 +9,7 @@ redirect_from:
 ## Prior Teaching Content 
 
 **[2022 Teaching Assistant Introduction](https://youtu.be/ZvoYeyxFHcw)**
-
-<iframe width="420" height="315"
-src="https://youtu.be/ZvoYeyxFHcw">
-</iframe>
+===
 
 ## In The News
 
