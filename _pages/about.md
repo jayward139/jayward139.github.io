@@ -18,5 +18,5 @@ I currently focus my studies on **political agnotology** (the study of ignorance
 
 I am currently an **[American Political Science Association Diversity Fellow](https://news.fullerton.edu/spotlight/titan-alumni-selected-for-american-political-science-associations-diversity-fellowship-program/)** for the 2023 - 2024 cohort and have been awarded the **UC Davis Provost’s Fellowship in the Arts, Humanities and Social Sciences** as an incoming first-year PhD student. Throughout my PhD program, I will be designated a **[CSU Chancellor's Doctoral Incentive Program (CDIP) Fellow](https://www.calstate.edu/csu-system/faculty-staff/cdip/)** and work with a mentor within the CSU system to enhance my scholarship. I have also been awarded fellowships within CSU Fullerton's **[Elevar and Grad Equity Scholars](https://www.fullerton.edu/graduate/about/elevar-equity-scholars/index.php)** and **[Pa'lante Fellowship](https://www.instagram.com/p/CspHvxWviiV/)** and was the 2022-2023 **Outstanding MA Student in Political Science** in the PAJ Division. 
 
-Here’s my [CV](https://jayward139.github.io/cv/) to get the full panopticon of my academic and professional experience. 
+Here’s my [CV](https://jayward139.github.io/cv/) to get the full scope of my academic and professional experience. 
 
