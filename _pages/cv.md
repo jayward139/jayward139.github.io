@@ -18,11 +18,15 @@ Education
 
 Work experience
 ======
+* Graduate Teaching Assistant, University of California, Davis 2023
+
 * Graduate Student Assistant, California State University, Fullerton - PAJ Division, 2021 - 2023
   
-* Senior Corporate Development Analyst, Excelera Health (MacArthur Court Acquisition Company), 2020* - 2023
+* Senior Corporate Development Analyst, Excelera Health (MacArthur Court Acquisition Company), 2021 - 2023
 
 * Finance Project Analyst/Interim Project Manager, Connected Care Health Services, 2020 - 2021
+
+* Facility Intern & Advocate, Radiant Health Centers, 2019 - 2020
 
 <iframe src="/files/JWARD_CV072023.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 For your convenience, you can download a PDF copy of my CV [here](/files/JWARD_CV072023.pdf).
