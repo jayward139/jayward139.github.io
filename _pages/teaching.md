@@ -14,9 +14,16 @@ I emphasize active learning, accessibility in instruction, media literacy, and c
 
 ## Teaching Experience
 
+### University of California Center Sacramento  
+**Graduate Teaching Assistant** (Summer 2025)
+*POL 195, POL 196E*
+
+- Lectured, graded, and advised a cohort of 35 undergraduate students on policy research and public service professionalization
+- Courses Taught: POL 195: Policy Analysis in California (Lead TA); POL 196E: Research Methods (TA)
+
 ### University of California, Davis  
 **Graduate Teaching Assistant** (2023–present)
-*POL 007V, POL 011C, POL 012B, POL 151, POL 195, POL 196E*
+*POL 007V, POL 011C, POL 012B, POL 151*
 
 - Assisted in course content delivery, discussion facilitation, student support, and grading in lower- and upper-division political science courses.
 - Led review sessions and supported students in understanding core concepts in California Policy, Media & Politics, Climate Change Politics, Constitutional Politics, and Research Methods.
@@ -35,7 +42,9 @@ Supported delivery and lectured on:
 - Supreme Court confirmation processes  
 - History of party systems and campaigning  
 
-#### Guest Lectures Delivered:
+---
+
+## Guest Lectures Delivered:
 | Instructor | Topic | Semester |
 |------------|--------|----------|
 | Dr. Jordan Kujala | Writing a Literature Review for CA Policy Research | Summer 2025 (UCCS) |
