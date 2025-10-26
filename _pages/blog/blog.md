@@ -47,7 +47,7 @@ https://gsa.ucdavis.edu/news/legislative-affairs-directors-newsletter-januaryfeb
 
 This issue introduces:  
 - **Jillian Gronnerud**, City Liaison LAD  
-- **Jalen Ward**, State & Federal LAD (Author / Co-Editor)
+- **Jalen Ward**, State & Federal LAD (Co-Editor)
 
 Together, they are coordinating legislative tracking, student-facing policy analysis, and advocacy strategy development in collaboration with the External Vice President, UCGPC, UCOP advocacy teams, and campus partners.
 
