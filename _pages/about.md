@@ -10,13 +10,33 @@ redirect_from:
 
 ## Hello & Welcome!
 
-I am thrilled to have you visit my academic website, a space dedicated to exploring my interest for political science, agnotology & epistemology, public health, and more. 
+I am a third-year Ph.D. student in Political Science at the **[University of California, Davis](https://ps.ucdavis.edu/)**, specializing in political agnotology (the production and politics of ignorance), digital political communication, and identity-based representation. My current research investigates how marginalized candidates—particularly Black women—strategically adjust ideological messaging across electoral stages using computational text analysis, regression discontinuity design (RDD), and AI-assisted models. I also explore AI-generated political messaging, health policy and economics, and misinformation’s role in shaping democratic participation and political affect.
 
-I am a **political science researcher** currently attending **[University of California, Davis](https://ps.ucdavis.edu/)** as a PhD graduate student. I graduated from **[California State University, Fullerton](https://www.fullerton.edu/)** first in 2020 with a Bachelor of Arts in Psychology with a minor in Political Science then again in 2023 with a **[Master of Arts in Political Science](https://hss.fullerton.edu/paj/PoliticalScience/ps_faq.aspx)**. I have also worked in managed healthcare and finance at startups. Most recently, I was the **Senior Corporate Development Analyst** at **[Excelera Health](https://excelerahealth.com/)**. I led an MAPD Eligibility & Enrollments Department, the Prescription Drug Event Reconciliation Program and served on the Social Analysis & Minority Health Team to develop a Medicare-tailored SDOH data plan, an ACO REACH Health Equity program, and a cost-controlled CRCCP for HEDIS/STARS COL measure strategy. 
+https://www.fullerton.edu/humanities-social-sciences/politics-administration-justice/
 
-I currently focus my studies on **political agnotology** (the study of ignorance) and its many-fold applications from theory to praxis. My master's thesis examined agnotology in the context of **Platonian and Machiavellian philosophy, Arendtian theory, Loneliness, Public Health, Trans Medicalization, Business, the Nixon Presidency, and Nuclear Epistemology**. I also invest myself in political psychology, misinformation, consumer technology, health politics and policy, Post-9/11 US grand strategy, and Russian revanchism. 
+I completed both my **B.A. in Psychology (minor in Political Science, 2020)** and **M.A. in Political Science (2023)** at **[California State University, Fullerton](https://www.fullerton.edu/humanities-social-sciences/politics-administration-justice/)**. Before academia, I worked in managed healthcare and startup finance, most recently as a Senior Corporate Development Analyst at Excelera Health, where I led Medicare Advantage enrollment operations, cost control for a medical group and high-complexity lab, prescription drug data reconciliation program, and health equity analytics focused on social determinants of health.
 
-I am currently an **[American Political Science Association Diversity Fellow](https://news.fullerton.edu/spotlight/titan-alumni-selected-for-american-political-science-associations-diversity-fellowship-program/)** for the 2023 - 2025 cohort and have been awarded the **UC Davis Provost’s Fellowship in the Arts, Humanities and Social Sciences** as a first-year PhD student. Currently, I serve as the Social Coordinator for the **[Graduate Association of Political Science Students (GAPSS)](https://sites.google.com/ucdavis.edu/gapss/home)** at UC Davis. Throughout my PhD program, I will be designated a **[CSU Chancellor's Doctoral Incentive Program (CDIP) Fellow](https://www.calstate.edu/csu-system/faculty-staff/cdip/)** and work with a mentor within the CSU system to enhance my scholarship. I have also been awarded fellowships within CSU Fullerton's **[Elevar and Grad Equity Scholars](https://www.fullerton.edu/graduate/about/elevar-equity-scholars/index.php)** and **[Pa'lante Fellowship](https://www.instagram.com/p/CspHvxWviiV/)** and was the 2022-2023 **Outstanding MA Student in Political Science** in the PAJ Division. 
+### Fellowships & Recognition
 
-Here’s my [CV](https://jayward139.github.io/cv/) to get the full scope of my academic and professional experience. 
+- [APSA Diversity Fellowship](https://news.fullerton.edu/spotlight/titan-alumni-selected-for-american-political-science-associations-diversity-fellowship-program/)
+- UC Davis Provost’s Fellowship in the Arts, Humanities, and Social Sciences
+- [CSU Chancellor's Doctoral Incentive Program (CDIP) Fellow](https://www.calstate.edu/csu-system/faculty-staff/cdip/)
+- Elevar & Grad Equity Scholar and Pa’lante Fellow (CSUF)
+- Outstanding M.A. Student in Political Science (2022–2023), PAJ Division, CSUF
+
+### Academic Governance & Advocacy
+
+I serve as the **Legislative Affairs Director** for the UC Davis Graduate Student Association in the Office of the External Vice President, where I lead state and federal policy advocacy and developed the **[GSA Legislative Affairs Newsletter](https://gsa.ucdavis.edu/news/gsa-legislative-affairs-newsletter-marchapril-2025-edition)**. I also represent graduate students at the campus and systemwide level through service on:
+
+- **[UC Academic Senate Coordinating Committee on Graduate Affairs (CCGA)](https://senate.universityofcalifornia.edu/committees/ccga/index.html)**
+UC Academic Senate Coordinating Committee on Graduate Affairs (CCGA)
+- **[UC Davis Academic Senate Academic Planning and Development Subcommittee (APD)](https://academicsenate.ucdavis.edu/committees/graduate-council/apd)**
+- UCOP Academic Planning Council (APC)
+- UC Advocacy Network
+
+I have participated in advocacy delegations in both Sacramento and Washington, D.C., bringing graduate student concerns directly to policymakers.
+
+---
+
+View my full **[Curriculum Vitae (CV)](https://jayward139.github.io/cv/)** for
 
