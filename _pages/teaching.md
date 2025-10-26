@@ -16,6 +16,7 @@ I emphasize active learning, accessibility in instruction, media literacy, and c
 
 ### University of California Center Sacramento  
 **Graduate Teaching Assistant** (Summer 2025)
+
 *POL 195, POL 196E*
 
 - Lectured, graded, and advised a cohort of 35 undergraduate students on policy research and public service professionalization
@@ -23,6 +24,7 @@ I emphasize active learning, accessibility in instruction, media literacy, and c
 
 ### University of California, Davis  
 **Graduate Teaching Assistant** (2023–present)
+
 *POL 007V, POL 011C, POL 012B, POL 151*
 
 - Assisted in course content delivery, discussion facilitation, student support, and grading in lower- and upper-division political science courses.
@@ -32,8 +34,9 @@ I emphasize active learning, accessibility in instruction, media literacy, and c
 
 ---
 
-### California State University, Fullerton  
-**Graduate Student Assistant (Teaching Assistant)** (2021-2023)
+### California State University, Fullerton
+**Graduate Student Assistant** (2021-2023)
+
 *POSC 100 – American Government (2021–2022)*
 
 Supported delivery and lectured on:  
@@ -45,12 +48,11 @@ Supported delivery and lectured on:
 ---
 
 ## Guest Lectures Delivered:
-| Instructor | Topic | Semester |
-|------------|--------|----------|
-| Dr. Jordan Kujala | Writing a Literature Review for CA Policy Research | Summer 2025 (UCCS) |
-| Dr. Robert Castro | 2021 CA Recall Election; Party Systems & Campaigning | Fall 2021; Spring 2022 (CSUF) |
-| Dr. Brian Lovato | Policy Diffusion during the Civil Rights Movement | Fall 2021 (CSUF) |
-| Dr. Meriem Doucette | Party History & Electoral Systems | Fall 2022 (CSUF) |
+
+- Dr. Jordan Kujala | Writing a Literature Review for CA Policy Research | Summer 2025 (UCCS) |
+- Dr. Robert Castro | 2021 CA Recall Election; Party Systems & Campaigning | Fall 2021; Spring 2022 (CSUF) |
+- Dr. Brian Lovato | Policy Diffusion during the Civil Rights Movement | Fall 2021 (CSUF) |
+- Dr. Meriem Doucette | Party History & Electoral Systems | Fall 2022 (CSUF) |
 
 Lectured Topics: [CA 2021 Recall Election](https://www.youtube.com/watch?v=umWwQk7qF3c), [CA Recall Election Debrief](https://www.youtube.com/watch?v=SN-1HM5ZtDY), Financial Incentive within Interest Groups & Parties, [History of American Parties](https://www.youtube.com/watch?v=OBISUoyAdbg), [Elections & Campaigning](https://www.youtube.com/watch?v=xLbjlboO5VI), [Confirmation Process of a SCOTUS Nominee](https://www.youtube.com/watch?v=mdm86XiE_a4), and De Facto and De Jure Policy Diffusion during the Civil Rights Movement
 
@@ -69,5 +71,5 @@ My teaching philosophy centers on three core commitments:
 ## Mentoring & Engagement
 
 - Advisor and peer mentor to first-generation and transfer students transitioning into political science.
-- Organizer of **Career Collab**, a professionalization series for political science undergraduates and graduate students at UC Davis.
+- Organizer of **Career CoLab**, a professionalization series for political science undergraduates and graduate students at UC Davis.
 - Active supporter of student learning through advocacy for equitable access to academic resources at the systemwide level.
