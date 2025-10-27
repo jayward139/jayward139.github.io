@@ -71,5 +71,4 @@ My teaching philosophy centers on three core commitments:
 ## Mentoring & Engagement
 
 - Advisor and peer mentor to first-generation and transfer students transitioning into political science.
-- Organizer of **Career CoLab**, a professionalization series for political science undergraduates and graduate students at UC Davis.
 - Active supporter of student learning through advocacy for equitable access to academic resources at the systemwide level.
