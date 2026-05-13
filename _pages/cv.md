@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For your convenience, you can download a PDF copy of my CV [here](/files/CV_jward_26102025.pdf).
+For your convenience, you can download a PDF copy of my CV [here](/files/CV_jward_052026.pdf).
 
 ## Education
 
@@ -22,8 +22,11 @@ For your convenience, you can download a PDF copy of my CV [here](/files/CV_jwar
 
 ## Professional Experience
 
+**External Vice President**  
+UC Davis, Graduate Student Association (2025–Present)  
+
 **Legislative Affairs Director – State & Federal Policy (Graduate Student Association)**  
-UC Davis, Office of the External Vice President (2024–Present)  
+UC Davis, Office of the External Vice President (2024–2025)  
 
 **Senior Corporate Development Analyst**, Excelera Health (2021–2024)  
 **Finance Project Analyst / Interim Project Manager**, Connected Care Health Services (2020–2021)  
@@ -51,7 +54,7 @@ UC Davis, Office of the External Vice President (2024–Present)
 
 ## Leadership & Service
 
-**President (2025), Vice President (2024–2025), Social Coordinator (2023–2024)**  
+**President (2025-Present), Vice President (2024–2025), Social Coordinator (2023–2024)**  
 Graduate Association of Political Science Students (GAPSS), UC Davis  
 
 **Graduate Student Representative**  
@@ -62,5 +65,5 @@ Graduate Association of Political Science Students (GAPSS), UC Davis
 ---
 
 
-<iframe src="/files/CV_jward_26102025.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/CV_jward_052026.pdf" width="100%" height="700" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
