@@ -2,7 +2,7 @@
 
 ---
 title: "Working Papers"
-permalink: /works/
+permalink: /papers/
 ---
 
 [Running with the Double Bind: Exploring Ideological Moderation in Black Women Candidates](/files/Double_Bind_QE_jw.pdf).
