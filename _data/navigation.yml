@@ -1,14 +1,14 @@
 # main links links
 main:
 
+  - title: 'Projects'
+    url: /projects/
+    
   - title: 'Media'
     url: /media/
 
   - title: 'Teaching'
     url: /teaching/
-
-  - title: 'Working Papers'
-    url: /papers/
 
   - title: 'CV'
     url: /cv/
